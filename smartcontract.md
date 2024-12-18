@@ -16,10 +16,10 @@ Candidates must select and complete ONE out of five available technical issues w
 
 | Issue Title | Problem | Technical Focus | Repository | Issue Link |
 |------------|----------|-----------------|------------|------------|
-| Fix JWT Prover for Special Characters | JWT proof generation fails for Google accounts with special characters | Modify ZK circuit constraints to handle special character encoding | zkemail/jwt-tx-builder | #8 |
-| Modular JWT Verification Architecture | JWT verifier needs separation from transaction builder | Refactor smart contract architecture to isolate core JWT verification logic | zkemail/jwt-tx-builder | #5 |
-| Assert state changes for script tests | Deployment scripts do not adequately assert on state changes | Refactoring tests | zkemail/email-recovery | #65 |
-| Prototype a new ERC7579 recovery module | We need to implement a prototype for a simpler and more generic recovery module | Implement new recovery module prototype | zkemail/email-recovery | #66 |
+| Fix JWT Prover for Special Characters | JWT proof generation fails for Google accounts with special characters | Modify ZK circuit constraints to handle special character encoding | zkemail/jwt-tx-builder | [#8](https://github.com/zkemail/jwt-tx-builder/issues/8) |
+| Modular JWT Verification Architecture | JWT verifier needs separation from transaction builder | Refactor smart contract architecture to isolate core JWT verification logic | zkemail/jwt-tx-builder | [#5](https://github.com/zkemail/jwt-tx-builder/issues/5) |
+| Assert state changes for script tests | Deployment scripts do not adequately assert on state changes | Refactoring tests | zkemail/email-recovery | [#65](https://github.com/zkemail/email-recovery/issues/65)  |
+| Prototype a new ERC7579 recovery module | We need to implement a prototype for a simpler and more generic recovery module | Implement new recovery module prototype | zkemail/email-recovery | [#66](https://github.com/zkemail/email-recovery/issues/66) |
 
 ## Evaluation Process
 
