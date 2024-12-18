@@ -12,7 +12,7 @@
 
 ### Code Challenges
 
-Candidates must select and complete ONE out of five available technical issues within a 48-hour deadline. The submission should include a complete solution with proper documentation explaining your approach and implementation decisions. After evaluation, you will receive compensation for both your time and the submitted solution.
+Candidates must select and complete ONE out of five available technical issues. The submission should include a complete solution with proper documentation explaining your approach and implementation decisions. After evaluation, you will receive compensation for both your time and the submitted solution.
 
 | Issue Title | Problem | Technical Focus | Repository | Issue Link |
 |------------|----------|-----------------|------------|------------|
