@@ -42,5 +42,3 @@ Candidates must select and complete ONE out of five available technical issues w
 
 ## Contact Information
 - Technical Support via Telegram: @yush_g
-
-## Open Call for Smart Contract Engineers
