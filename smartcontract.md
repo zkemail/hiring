@@ -39,6 +39,7 @@ Candidates must select and complete ONE out of four available technical issues. 
    - Subject line: "Technical Challenge Submission - [Your Name]"
    - GitHub PR link
    - Brief summary of your chosen issue and approach
+   - Attach a resume and/or portfolio
 
 ## Contact Information
 - Technical Support via Telegram: @yush_g
