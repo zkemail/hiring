@@ -5,7 +5,7 @@
 | Category | Details |
 |----------|----------|
 | Position | Smart Contract Engineer |
-| Duration | 4 Hours |
+| Recommended Duration | 4 Hours |
 | Format | Remote/Virtual |
 
 ## Challenge Information
