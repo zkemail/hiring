@@ -9,7 +9,7 @@
 | Format | Remote |
 
 ## Interview Trial Assignment
-Please prepare a *15-20 minute presentation*, using any materials that you see fit (e.g., slides, Figma, Excalidraw, Notion, etc.). for one of the following tasks. 
+Please prepare a 15-20 minute presentation, using any materials that you see fit (e.g., slides, Figma, Excalidraw, Notion, etc.). for one of the following tasks. 
 
 ## Task Options
 
@@ -27,12 +27,12 @@ How would you redesign the user experience of the ZKEmail [Registry](https://reg
 * Proven track record in creating technical content, such as blog posts, tutorials, and documentation.
 * Strong open source experience and working knowledge of GitHub.
 * Clear communication of technical concepts, both in writing and in presentations, with ease in presenting at conferences and other public forums.
-* Strong analytical capabilities with deep understanding of the ZKEmail product suite and target market demographics
-* Strategic mindset in developer relations, with proven ability to attract and retain high-value developers aligned with long-term market needs rather than short-term metrics
-* Meticulous focus on detail with a deep understanding of how nuanced documentation and consistent writing style significantly impact the overall developer experience
+* Strong analytical capabilities with deep understanding of the ZKEmail product suite and target market demographics.
+* Strategic mindset in developer relations, with proven ability to attract and retain high-value developers aligned with long-term market needs rather than short-term metrics.
+* Meticulous focus on detail with a deep understanding of how nuanced documentation and consistent writing style significantly impact the overall developer experience.
 
 ## Nice to Have
-* Understanding of Solidity and EVM development; experience with Rust or other compiled languages.
+* Understanding of Solidity and EVM development; experience with Rust.
 
 ## Submission Guidelines
 * Email: Send an email to aayushgupta05@gmail.com and tinahaibodi@gmail.com with:
