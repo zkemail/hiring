@@ -9,7 +9,7 @@
 | Format | Remote/Virtual |
 
 ## Interview Trial Assignment
-Please prepare a *15-20 minute presentation*, using any materials that you see fit (e.g., slides, Figma, notion, etc.). for one of the following tasks. 
+Please prepare a *15-20 minute presentation*, using any materials that you see fit (e.g., slides, Figma, Excalidraw, notion, etc.). for one of the following tasks. 
 
 ## Task Options
 
