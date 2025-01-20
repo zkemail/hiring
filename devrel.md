@@ -9,20 +9,18 @@
 | Format | Remote/Virtual |
 
 ## Interview Trial Assignment
-Please prepare a *15-20 minute presentation*, using any materials that you see fit (e.g., slides, Figma, Excalidraw, notion, etc.). for one of the following tasks. 
+Please prepare a *15-20 minute presentation*, using any materials that you see fit (e.g., slides, Figma, Excalidraw, Notion, etc.). for one of the following tasks. 
 
 ## Task Options
 
 ### Task 1
-Create a QA testing process that ZKEmail partner developers would use for the account-recovery module. The feedback collection process should encompass both technical input from wallet integration partners (such as Gnosis Safe) and UX insights gathered from their wallet users. Create a test plan with specific test cases to validate both aspects.
-
-https://github.com/zkemail/email-recovery
+Create a QA testing process that ZKEmail partner developers would use for the [Email Recovery](https://github.com/zkemail/email-recovery) module. The feedback collection process should encompass both technical input from wallet integration partners (such as Gnosis Safe) and UX insights gathered from their wallet users. Create a test plan with specific test cases to validate both aspects.
 
 ### Task 2
-Design a bug management system for the ZKEmail Registry that prioritizes issues by user impact and partner needs. The plan should outline the core system structure including bug tracking, triage process, and documentation standards, as well as how it will be maintained and scaled to additional team members.
+Design a bug management system for the ZKEmail [Registry](https://registry.zk.email/) that prioritizes issues by user impact and partner needs. The plan should outline the core system structure including bug tracking, triage process, and documentation standards, as well as how it will be maintained and scaled to additional team members.
 
 ### Task 3
-How would you redesign the user experience of the ZKEmail Registry to better support developers? Explore improvements to the end-to-end developer journey, from initial documentation through successful completion of a blueprint. Consider the documentation structure of our Docs site, field requirements, and overall workflow. Provide specific recommendations.
+How would you redesign the user experience of the ZKEmail[Registry](https://registry.zk.email/) to better support developers? Explore improvements to the end-to-end developer journey, from initial documentation through successful completion of a blueprint. Consider the documentation structure of our Docs site, field requirements, and overall workflow. Provide specific recommendations.
 
 ## What are we looking for?
 * Solid foundation in software engineering, particularly in building developer tools and/or blockchain applications.
