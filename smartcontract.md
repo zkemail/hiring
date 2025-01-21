@@ -35,7 +35,7 @@ Candidates must select and complete ONE out of four available technical issues. 
 2. Create a new branch with your name
 3. Commit your solution and push changes
 4. Create a pull request against the main branch
-5. Email: Send an email to aayushgupta05@gmail.com with:
+5. Email: Send an email to aayushgupta05@gmail.com, john@pse.dev and thezdev1@gmail.com, with:
    - Subject line: "Technical Challenge Submission - [Your Name]"
    - GitHub PR link
    - Brief summary of your chosen issue and approach
