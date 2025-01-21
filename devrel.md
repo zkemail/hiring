@@ -35,7 +35,7 @@ How would you redesign the user experience of the ZKEmail [Registry](https://reg
 * Understanding of Solidity and EVM development; experience with Rust.
 
 ## Submission Guidelines
-* Email: Send an email to aayushgupta05@gmail.com and tinahaibodi@gmail.com with:
+* Email: Send an email to aayushgupta05@gmail.com, tinahaibodi@gmail.com and adityabisht64@gmail.com with:
    - Subject line: "DevRel Challenge Submission - [Your Name]
    - Brief summary of your presentation
    - Attach a resume and/or portfolio
