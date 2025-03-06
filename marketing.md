@@ -1,8 +1,6 @@
 # **Interview Task Assignment**
 
-Please prepare a **15-20 minute presentation**, using any materials that you see fit (e.g., slides, Figma, notion, etc.). for one of the following tasks. When you are ready, please grab time on our shared calendar: Calendly Link.
-
-The interview will be **_15-20 minutes of presentation_** followed by 20 minutes of Q&A. Members of the team will be attending.
+Please prepare a **15-20 minute presentation**, using any materials that you see fit (e.g., slides, Figma, notion, etc.). for one of the following tasks. 
 
 ## **Task 1:**
 *Perform an "audit" of Aztec, Base, Succinct, and Gnosis Safe community presence. Evaluate what they do well and what they do not do well. Recommend how ZKEmail could apply some of their practices to improve our community engagement, and propose an alternative creative campaign, Twitter thread or method of content. Focus on the alternative method and solution instead of the critical analysis for your presentation.  Use materials such as slides, Figma, or Notion for your presentation. 
