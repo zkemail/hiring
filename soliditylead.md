@@ -1,4 +1,4 @@
-# Senior Solidity Engineer JD
+# Senior Solidity Lead
 
 ## About the Role:
 You will be part of a small and agile team focused on bringing on-chain trust to the masses. The Smart Contract team is focused on several areas, but your key focus will be working on our next iteration of account recovery using keystore rollups, and our ERC 7702 integration. You will be working on ZK Email OAuth, Email 2FA for accounts, ZK Email Login and Email Wallet. You will collaborate closely with the best teams in the space, including Safe, OpenZeppelin, Coinbase, Succinct, and Axiom.
