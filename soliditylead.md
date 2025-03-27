@@ -21,3 +21,9 @@ You will be leading a team of 2 engineers. It will be your responsibility to lea
 * Familiarity with ZK Email
 * Experience with ZKPs and/or Rust
 * Knowledge of ERC4337, ERC7702 and other ERC standards
+
+## Submission Guidelines
+Email: Send an email to aayushgupta05@gmail.com, jwguilding@gmail.com with:
+Subject line: "Solidity Lead Application Submission - [Your Name]
+Attach a resume and/or portfolio and Github
+Your availability for an interview
