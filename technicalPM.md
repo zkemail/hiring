@@ -30,3 +30,9 @@ We have a mix of scrappy startup culture where people both take ownership and ju
 * Experience marketing developer tools or developer infrastructure
 
 We don't want to work with scammy projects, nor do we publish low quality content. We have a high bar for content — we are not a crypto project, we are a cryptography research organization.
+
+## Submission Guidelines
+Email: Send an email to aayushgupta05@gmail.com, tinahaibodi@gmail.com with:
+Subject line: "PM Application Submission - [Your Name]
+Attach a resume and/or portfolio and Github
+Your availability for an interview
